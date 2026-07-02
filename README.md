@@ -1,23 +1,19 @@
 <h1 align="left">Hey there 👋, I'm Rohan Khandare</h1>
-
+  
 💻 Software Engineer focused on building scalable applications and intelligent systems.
 
 🚀 Developed Full Stack web applications, AI/ML-powered applications and Computer Vision solutions.
 
 🔍 Passionate about Software Engineering, Backend Development, Artificial Intelligence, and Cloud Technologies.
 
-🌱 Currently learning Spring Boot, Microservices, System Design, and Cloud & DevOps.
-
 📫 Open to collaborating on impactful projects and innovative solutions.
 
----
-### 🔧 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,react,nodejs,express,fastapi,mysql,mongodb,firebase,tensorflow,opencv,aws,docker,git,github,vscode,idea,postman,linux" />
+## 🔧 Tech Stack
+
+<p align='left'>
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,spring,react,nodejs,express,flask,fastapi,mysql,mongodb,firebase,ai,tensorflow,sklearn,opencv,aws,gcp,linux,docker,git,github,postman,vscode,idea" />
 </p>
-
----
 
 ## 📬 Let's Connect
 
@@ -33,6 +29,5 @@
   </a>
 </p>
 
----
 
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+<p align="left" >⭐ Thanks for visiting my profile! Feel free to connect and collaborate.</p>
